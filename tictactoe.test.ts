@@ -43,3 +43,8 @@ test('The opponet will add a cirlce', async()=> {
     await( await driver).sleep(2000);
 
 })
+
+// test('The circle will appear when user makes a move', ()=> { 
+    
+//     expect().toBeTruthy.t
+// })
